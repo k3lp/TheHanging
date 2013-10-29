@@ -8,7 +8,7 @@ Hanging of the Man is an Android application based on the classic Hangman game.
 
 Features:
 -------------
-*	On boot, gameplay must start.
+*	On boot, Hangman can be played instantly.
 * The app’s front side must display placeholders (e.g., hyphens) for yet-unguessed letters that make clear the word’s length.
 *	Show how many incorrect guesses can be made before losing.
 *	Show guessed letters.
