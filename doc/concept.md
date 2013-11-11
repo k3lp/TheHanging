@@ -1,4 +1,3 @@
-
 Hanging of the Man Concept
 ==========
 
@@ -6,16 +5,16 @@ Hanging of the Man (HotM) is an Android application based on the classic Hangman
 
 
 
-A list of database tables and fields (and their types) that you’ve decided to implement;
+Database tables and fields:
 -------------
 *	SQLite Database voor tabel met naam en score, alleen voor top 10 scores.
 * 	Woorden die gebruikt worden komen uit een xml file dus niet in database zetten. 
 
 
-A list of classes and methods (and their return types and/or arguments) that you’ve decided to implement;
+Classes and methods:
 -------------
 * SplashActivity
-			*splashscreen
+			* splashscreen
 
 * MainActivity 	
 			* menu met 4 buttons: new game, load game, highscores, quit.
