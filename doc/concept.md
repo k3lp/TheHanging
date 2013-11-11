@@ -14,23 +14,23 @@ Database tables and fields:
 Classes and methods:
 -------------
 * SplashActivity
-			* splashscreen
+	* splashscreen
 
 * MainActivity 	
-			* menu met 4 buttons: new game, load game, highscores, quit.
-			* newgame roept PregameActivity aan, load game roept LoadgameActivity, highscores roept HighscoreActivity aan.
+	* menu met 4 buttons: new game, load game, highscores, quit.
+	* newgame roept PregameActivity aan, load game roept LoadgameActivity, highscores roept HighscoreActivity aan.
 
 * PregameActivity 	
-			* Kies de settings voor je nieuwe game, de app slaat deze op in sharedpreferences en roept NewgameActivity aan en sluit zichzelf.
+	* Kies de settings voor je nieuwe game, de app slaat deze op in sharedpreferences en roept NewgameActivity aan en sluit zichzelf.
 
 * NewgameActivity 
-			* Start een nieuw game met gekozen settings
+	* Start een nieuw game met gekozen settings
 
 * SaveActivity 
-			* Popup of je game wilt saven bij terug naar menu in newgame 
+	* Popup of je game wilt saven bij terug naar menu in newgame 
 
 * EndofgameActivity 
-			* Popup met score en naam invoeren, slaat deze dan op in SQLite Database.
+	* Popup met score en naam invoeren, slaat deze dan op in SQLite Database.
 
 * HighscoreActivity 
-			* Leest de SQLite database met daarin de highscores en laat deze als tabel zien.
+	* Leest de SQLite database met daarin de highscores en laat deze als tabel zien.
