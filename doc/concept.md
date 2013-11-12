@@ -34,3 +34,14 @@ Classes and methods:
 
 * HighscoreActivity 
 	* Leest de SQLite database met daarin de highscores en laat deze als tabel zien.
+	
+
+Styleguide:
+==========
+Comments
+-------------
+
+Loops
+-------------
+	
+	
